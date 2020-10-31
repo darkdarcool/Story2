@@ -25,3 +25,12 @@ bcyan = "\033[0;96m"
 bwhite = "\033[0;97m"
 bold = '\033[1m'
 end = '\033[0m'
+
+def typewriter(message):
+	for i in message:
+		sys.stdout.write(i)
+		sys.stdout.flush()
+		if ((i != "\n") and (i != ":")):
+			time.sleep(0.08)
+		else:
+			time.sleep(0.2)
