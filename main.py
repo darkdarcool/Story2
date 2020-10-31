@@ -34,3 +34,5 @@ def typewriter(message):
 			time.sleep(0.08)
 		else:
 			time.sleep(0.2)
+			
+typewriter('Hello replers! I have ')
