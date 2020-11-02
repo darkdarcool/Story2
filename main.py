@@ -36,3 +36,6 @@ def typewriter(message):
 			time.sleep(0.2)
 			
 typewriter('Hello replers! I have decided that I want to make another GlitchInTheSystem story! I hope you enjoy the project, have a great day!\n - DarkDarcool')
+time.sleep(2)
+os.system('clear')
+typewriter('When you came back up for bed, you ')
