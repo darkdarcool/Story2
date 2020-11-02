@@ -35,4 +35,4 @@ def typewriter(message):
 		else:
 			time.sleep(0.2)
 			
-typewriter('Hello replers! I have ')
+typewriter('Hello replers! I have decided that I want to make another GlitchInTheSystem story! I hope you enjoy the project, have a great day!\n - DarkDarcool')
