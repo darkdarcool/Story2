@@ -1,2 +1,5 @@
 # Story2
-ssssss
+: octocat :
+Welcome to git story2!!
+``` python
+print('This is made in python!')
