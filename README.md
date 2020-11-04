@@ -2,8 +2,8 @@
 :octocat: 
 Welcome to git story2!!
 - [x] add typewriter effect and colors
-- [ ] list syntax required (any unordered or ordered list supported)
-- [ ] this is a complete item
+- [ ] add the time where he gets sucked in. 
+- [ ] add the new kid in the there too (justin)
 - [ ] add battle sequence
 
 
