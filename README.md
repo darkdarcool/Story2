@@ -1,10 +1,10 @@
 # Story2
 :octocat: 
 Welcome to git story2!!
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] add typewriter effect and colors
+- [ ] list syntax required (any unordered or ordered list supported)
+- [ ] this is a complete item
+- [ ] add battle sequence
 
 
 
