@@ -38,4 +38,5 @@ def typewriter(message):
 typewriter('Hello replers! I have decided that I want to make another GlitchInTheSystem story! I hope you enjoy the project, have a great day!\n - DarkDarcool')
 time.sleep(2)
 os.system('clear')
-typewriter('When you came back up for bed, you ')
+typewriter('When you came back up for bed, you see the game, laying on your bed, ' + bold + 'NOT' + end + ' where you left it. That weirded you out, but you thought it was just your younger brother playing with it and he left it on your bed\n
+')
