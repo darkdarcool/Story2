@@ -1,5 +1,5 @@
 # Story2
-: octocat :
+:octocat: 
 Welcome to git story2!!
 ``` python
 print('This is made in python!')
